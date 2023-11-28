@@ -1,5 +1,5 @@
 ---
-description: Open-source ML observabilty course.
+description: Free Open-source ML observability course for data scientists and ML engineers by Evidently AI.
 ---
 
 # Welcome!
@@ -8,9 +8,6 @@ description: Open-source ML observabilty course.
 [ML observability course: welcome video](https://www.youtube.com/watch?v=FI2xDByfXfQ&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=2)
 
 Welcome to the Open-source ML observability course!
-
-The course starts on **October 16, 2023**. \
-[Sign up](https://www.evidentlyai.com/ml-observability-course) to save your seat and receive weekly course updates.
 
 # How to participate?
 * **Join the course**. [Sign up](https://www.evidentlyai.com/ml-observability-course) to receive weekly updates with course materials and information about office hours.
@@ -42,20 +39,20 @@ ML observability course is organized into six modules. You can follow the comple
 [Module 2. ML monitoring metrics: model quality, data quality, data drift](ml-observability-course/module-2-ml-monitoring-metrics/readme.md). 
 {% endcontent-ref %}
 
-{% content-ref url="ml-observability-course/module-3-ml-monitoring-for-unstructured-data.md" %}
-[Module 3. ML monitoring for unstructured data: NLP, LLM, and embeddings](ml-observability-course/module-3-ml-monitoring-for-unstructured-data.md). 
+{% content-ref url="ml-observability-course/module-3-ml-monitoring-for-unstructured-data/readme.md" %}
+[Module 3. ML monitoring for unstructured data: NLP, LLM, and embeddings](ml-observability-course/module-3-ml-monitoring-for-unstructured-data/readme.md). 
 {% endcontent-ref %}
 
-{% content-ref url="ml-observability-course/module-4-designing-effective-ml-monitoring.md" %}
-[Module 4. Designing effective ML monitoring](ml-observability-course/module-4-designing-effective-ml-monitoring.md). 
+{% content-ref url="ml-observability-course/module-4-designing-effective-ml-monitoring/readme.md" %}
+[Module 4. Designing effective ML monitoring](ml-observability-course/module-4-designing-effective-ml-monitoring/readme.md). 
 {% endcontent-ref %}
 
-{% content-ref url="ml-observability-course/module-5-ml-pipelines-validation-and-testing.md" %}
-[Module 5. ML pipeline validation and testing](ml-observability-course/module-5-ml-pipelines-validation-and-testing.md). 
+{% content-ref url="ml-observability-course/module-5-ml-pipelines-validation-and-testing/readme.md" %}
+[Module 5. ML pipeline validation and testing](ml-observability-course/module-5-ml-pipelines-validation-and-testing/readme.md). 
 {% endcontent-ref %}
 
-{% content-ref url="ml-observability-course/module-6-deploying-an-ml-monitoring-dashboard.md" %}
-[Module 6. Deploying an ML monitoring dashboard](ml-observability-course/module-6-deploying-an-ml-monitoring-dashboard.md). 
+{% content-ref url="ml-observability-course/module-6-deploying-an-ml-monitoring-dashboard/readme.md" %}
+[Module 6. Deploying an ML monitoring dashboard](ml-observability-course/module-6-deploying-an-ml-monitoring-dashboard/readme.md). 
 {% endcontent-ref %}
 
 # Course calendar and deadlines
